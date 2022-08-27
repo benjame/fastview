@@ -4,12 +4,20 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v3.8.3</h1>
 <h4 align="center">A Vue3 based Web-fronted framework for fast development of CMS</h4>
 
+<p align="center">
+	<img alt="license" src="https://img.shields.io/github/license/benjame/fastview.svg">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/benjame/fastview?logo=github">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/benjame/fastview?logo=git">
+    <img alt="node package management" src="https://badgen.net/badge/icon/npm?icon=npm&label">
+    <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/benjame/fastview">
+    <img alt="lastest released version" src="https://badgen.net/github/release/benjame/fastview">
+</p>
+
 ## 平台简介
 
-* 本仓库为前端技术栈 [Vue3](https://v3.cn.vuejs.org) + [Element Plus](https://element-plus.org/zh-CN) + [Vite](https://cn.vitejs.dev) 版本。
-* 配套后端代码仓库地址[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 或 [RuoYi-Vue-fast](https://github.com/yangzongzhuan/RuoYi-Vue-fast) 版本。
-* 前端技术栈（[Vue2](https://cn.vuejs.org) + [Element](https://github.com/ElemeFE/element) + [Vue CLI](https://cli.vuejs.org/zh)），请移步[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue/tree/master/ruoyi-ui)。
-
+- 本仓库为前端技术栈 [Vue3](https://v3.cn.vuejs.org) + [Element Plus](https://element-plus.org/zh-CN) + [Vite](https://cn.vitejs.dev) 版本。
+- 配套后端代码仓库地址[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 或 [RuoYi-Vue-fast](https://github.com/yangzongzhuan/RuoYi-Vue-fast) 版本。
+- 前端技术栈（[Vue2](https://cn.vuejs.org) + [Element](https://github.com/ElemeFE/element) + [Vue CLI](https://cli.vuejs.org/zh)），请移步[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue/tree/master/ruoyi-ui)。
 
 ## 前端运行
 
@@ -45,17 +53,16 @@ yarn dev
 10. 登录日志：系统登录日志记录查询包含登录异常。
 11. 在线用户：当前系统中活跃用户状态监控。
 12. 定时任务：在线（添加、修改、删除)任务调度包含执行结果日志。
-13. 代码生成：前后端代码的生成（java、html、xml、sql）支持CRUD下载 。
-14. 系统接口：根据业务代码自动生成相关的api接口文档。
-15. 服务监控：监视当前系统CPU、内存、磁盘、堆栈等相关信息。
+13. 代码生成：前后端代码的生成（java、html、xml、sql）支持 CRUD 下载 。
+14. 系统接口：根据业务代码自动生成相关的 api 接口文档。
+15. 服务监控：监视当前系统 CPU、内存、磁盘、堆栈等相关信息。
 16. 缓存监控：对系统的缓存信息查询，命令统计等。
-17. 在线构建器：拖动表单元素生成相应的HTML代码。
-18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
+17. 在线构建器：拖动表单元素生成相应的 HTML 代码。
+18. 连接池监视：监视当前系统数据库连接池状态，可进行分析 SQL 找出系统性能瓶颈。
 
 ## 在线体验
 
-- admin/admin123  
-
+- admin/admin123
 
 演示地址：
 文档地址：
