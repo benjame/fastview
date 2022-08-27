@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://github.com/benjame/fastview.git"
   },
   "dependencies": {
     "@element-plus/icons-vue": "1.1.4",
@@ -38,6 +38,7 @@
     "vite": "^2.9.15",
     "vite-plugin-compression": "0.5.1",
     "vite-plugin-svg-icons": "2.0.1",
-    "vite-plugin-vue-setup-extend": "0.4.0"
+    "vite-plugin-vue-setup-extend": "0.4.0",
+    "vitest": "^0.22.1"
   }
 }
