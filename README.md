@@ -11,6 +11,7 @@
     <img alt="node package management" src="https://badgen.net/badge/icon/npm?icon=npm&label">
     <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/benjame/fastview">
     <img alt="lastest released version" src="https://badgen.net/github/release/benjame/fastview">
+	<img alt="Github Action status" src="https://github.com/benjame/fastview/actions/workflows/node.js.yml/badge.svg?branch=master">
 </p>
 
 ## 平台简介
