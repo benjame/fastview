@@ -1,7 +1,7 @@
 <p align="center">
-	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png">
+	<img alt="logo" src="/resources/logo.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v3.8.3</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">fastview v0.0.1</h1>
 <h4 align="center">A Vue3 based Web-fronted framework for fast development of CMS</h4>
 
 <p align="center">

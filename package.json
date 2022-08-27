@@ -1,6 +1,6 @@
 {
   "name": "fastview",
-  "version": "3.8.3",
+  "version": "0.0.1",
   "description": "This is a web based fronted project for system management using Vue3, element-plus, axios and echarts",
   "author": "benjame",
   "license": "MIT",
