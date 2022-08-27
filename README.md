@@ -5,7 +5,7 @@
 <h4 align="center">A Vue3 based Web-fronted framework for fast development of CMS</h4>
 
 <p align="center">
-	<img alt="license" src="https://img.shields.io/github/license/benjame/fastview.svg">
+    <img alt="license" src="https://img.shields.io/github/license/benjame/fastview.svg">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/benjame/fastview?logo=github">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/benjame/fastview?logo=git">
     <img alt="node package management" src="https://badgen.net/badge/icon/npm?icon=npm&label">
