@@ -1,7 +1,7 @@
 {
   "name": "fastview",
   "version": "0.0.1",
-  "description": "This is a web based fronted project for system management using Vue3, element-plus, axios and echarts",
+  "description": "This is a web based fronted project for system management using Vue3, vite, element-plus, axios and echarts",
   "author": "benjame",
   "license": "MIT",
   "scripts": {
@@ -38,7 +38,7 @@
     "unplugin-auto-import": "0.8.5",
     "vite": "^2.9.15",
     "vite-plugin-compression": "0.5.1",
-    "vite-plugin-svg-icons": "2.0.1",
+    "vite-plugin-svg-icons": "^0.1.0",
     "vite-plugin-vue-setup-extend": "0.4.0",
     "vitest": "^0.22.1"
   }
