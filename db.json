@@ -15,5 +15,17 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "dict": [
+        {
+            "id": 1,
+            "name": "jack",
+            "code": "001",
+            "createBy": "",
+            "updateBy": "",
+            "createTime": "",
+            "updateTime": "",
+            "remark": ""
+        }
+    ]
 }
